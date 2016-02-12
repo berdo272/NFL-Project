@@ -1,0 +1,9 @@
+
+QB1 Quarterback
+Runner1 RunningBack
+Runner2 RunningBack
+Runner4 RunningBack
+Runner5 RunningBack
+Receiver1 WideReceiver
+Receiver2 WideReceiver
+Receiver3 WideReceiver
